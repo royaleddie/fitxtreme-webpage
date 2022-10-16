@@ -697,7 +697,7 @@ a{
 }
 
 .category .productaction li a i {
-    color: #673AB7;
+    color: #a2c016;
     font-size: 18px;
     transition: all 0.4s ease 0s;
 }
@@ -745,7 +745,7 @@ a{
 }
 
 .category .frproductinner h4 a {
-    color: #673ab6;
+    color: #a2c016;
     font-family: Old Standard TT;
     font-size: 17px;
     font-weight: 600;
@@ -783,7 +783,7 @@ a{
 
 .category .rating li i{
 
-	color:red;
+	color: black;
 
 }
 
