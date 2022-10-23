@@ -55,6 +55,12 @@
     /* border-color: var(--secondary); */
 }
 
+.facts .btn:hover {
+    background: var(--secondary);
+    color: white;
+    /* border-color: var(--secondary); */
+}
+
 .btn.btn-secondary:hover {
     background: var(--primary);
 }
@@ -215,10 +221,10 @@
 
 
 /*** Facts ***/
-/* @media (min-width: 992px) {
+/* /* @media (min-width: 992px) {
     .container.facts {
         max-width: 100% !important;
-    }
+    } 
 
     .container.facts .facts-text {
         padding-left: calc(((100% - 960px) / 2) + .75rem);
